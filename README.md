@@ -1,2 +1,4 @@
 # HamburgerOrderSystem
-The Java-based Hamburger Price Calculation System streamlines the pricing process for hamburgers in a fast-food restaurant or similar establishment
+The Java-based Hamburger Price Calculation System streamlines the pricing process for hamburgers in a fast-food restaurant or similar establishment. Users can choose from a range of hamburger options, including the classic Basic Hamburger, the nutritious Healthy Hamburger, and the indulgent Deluxe Hamburger. Each option serves as a starting point for customization, catering to diverse customer preferences and dietary choices. Customers can personalize their burgers by adding extra ingredients to suit their taste. Whether it's premium cheeses, gourmet sauces, or unique toppings. 
+
+Embracing the power of Object-Oriented Programming (OOP) principles, the Hamburger Customization and Pricing System in Java represents a solution that leverages the versatility and modularity inherent in OOP. This design paradigm enhances code organization, promotes code reuse, and facilitates the scalability and maintainability of the entire system. It uses and emphazises on OOPs concepts such as inheritance.
